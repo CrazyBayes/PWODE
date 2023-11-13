@@ -1,5 +1,5 @@
 # SourceCode
-This is the core source code of PWODE which is published in Pattern Recogntion. If you use it, please cite our work. Thanks!
+This is the core source code of PWODE which is published in *Pattern Recogntion*. If you use it, please cite our work. Thanks!
 
 @article{KONG2023109473, 
 
